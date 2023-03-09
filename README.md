@@ -1,4 +1,4 @@
-# Makin-Waves-Sea-Shanty-
+# Making Waves - Sea Shanty
 Open Sourcing the Lyrics to a Sea Shanty I wrote, this is the 1st song I have ever written so maybe the community can help make it better. While I was writing I had the tune from The Wrong Company by Flogging Molly in my head if that helps with the reading: https://www.youtube.com/watch?v=8EfCmRz-ruA
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
